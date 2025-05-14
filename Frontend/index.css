@@ -62,7 +62,7 @@ header {
 
 /* Hero Section with Background Image */
 .hero {
-  background-image: url('imageee.jpg');
+  background-image: url('/Images/imageee.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
